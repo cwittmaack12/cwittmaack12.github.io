@@ -37,9 +37,7 @@ h1, h4{
 .banner{
     background-color: #eae7dc;
 }
-.card{
-    background-color: #eae7dc !important;
-}
+
 .icon{
     color: #e0ca3c !important;
     max-width: 50px !important;
@@ -54,6 +52,7 @@ img{
 }
 #planner{
     padding-right: 4rem;
+    padding-top: 40px;
 }
 
 #hurr{
@@ -61,3 +60,8 @@ img{
     width: 90%;
 }
 
+#cert{
+    padding-top: 120px;
+    width: 95%;
+    padding-right: 20px;
+}
